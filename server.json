@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.easy8com/easy8-mcp",
+  "name": "io.github.Easy8com/easy8-mcp",
   "title": "Easy8",
-  "description": "Connect AI assistants to Easy8 — read and update projects, issues, and comments using your own Easy8 permissions, on your own Easy8 instance.",
+  "description": "Connect AI assistants to Easy8 — read and update projects, issues, and comments.",
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/Easy8com/easy8-mcp",
